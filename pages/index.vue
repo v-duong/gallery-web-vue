@@ -1,5 +1,4 @@
 <template>
     <TopBar />
-    <body>
-    </body>
+    <div>TEST</div>
 </template>
